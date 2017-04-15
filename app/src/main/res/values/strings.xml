@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Teach For India</string>
+
+    <string name="region_prompt">Select</string>
+    <string name="name_mum">Name:</string>
+    <string name="full_name">Full Name</string>
+    <string name="volunteer_in_mumbai">VOLUNTEER IN MUMBAI</string>
+
+    <string-array name="region_arrays">
+        <item>Select</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Bengaluru</item>
+        <item>Ahmedabad</item>
+        <item>Hyderabad</item>
+
+    </string-array>
+
+</resources>
